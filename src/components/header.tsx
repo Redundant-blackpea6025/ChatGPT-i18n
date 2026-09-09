@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const navigation = [
     { name: "Translate", href: "/translate" },
-    { name: "Github", href: "https://github.com/ObservedObserver/chatgpt-i18n" },
+    { name: "Github", href: "https://github.com/ashelygierisch/chatgpt-i18n" },
     { name: "Settings", href: "/settings" },
 ];
 
